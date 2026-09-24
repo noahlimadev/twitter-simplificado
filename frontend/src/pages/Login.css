@@ -1,0 +1,28 @@
+.center {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.form input {
+  display: flex;
+  border: none;
+  border-radius: 8px;
+  padding: 20px;
+  font-size: 22px;
+  margin: 10px auto;
+}
+
+.botaoCadastro  {
+  margin-top: 10px;
+  cursor: pointer;
+  border: none;
+  padding: 20px;
+  border-radius: 8px;
+  font-size: 22px;
+}
+
+.botaoCadastro:hover {
+  background-color: gray;
+}

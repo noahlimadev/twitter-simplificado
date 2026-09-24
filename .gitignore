@@ -1,0 +1,9 @@
+#Ignorar dependências do Node
+node_modules/
+
+#Ignorar pastas de build e compilação
+dist/
+build/
+
+#ignorar variáveis de ambiente
+.env

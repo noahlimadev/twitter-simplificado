@@ -1,21 +1,21 @@
-# Twitter Simples
-Esse projeto foi feito para entender sobre autenticações(logins, cadastros, sessões, tokens, localstorage)
-Sei que ele não ta bonito mas até então esta funcional, pretendo mexer nele futuruamente para deixar com um visual mais agradável
+# Simple Twitter
+This project was created to explore authentication concepts (logins, registrations, sessions, tokens, and local storage). <br />
+I know it’s not very attractive, but it is functional; I plan to work on it further in the future to give it a more pleasing appearance.
 
-# Tecnologias usadas
+# Stack
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react)](https://skillicons.dev)
 
-# Rodando localmente:
+# Local running:
 
-No frontend você abre a pasta do front e roda o seguinte comando:
+In the frontend, open the frontend folder and run the following command:
 ```
 npm run dev
 ```
-No Backend você abre a pasta do back e roda o seguinte comando:
+In the backend, open the backend folder and run the following command:
 ```
 node index.js
 ```
 
-# Atualizações que pretendo fazer
-- [ ] Banco de dados real
-- [ ] Visual melhor 
+# Updates
+- [ ] Real Database(SQL)
+- [ ] Better visual
